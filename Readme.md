@@ -1,7 +1,29 @@
-# monopoly
+# hermon imoetzz
 
-A JavaScript/HTML/CSS Monopoly implementation with full game play. Supports two-eight players.
+---
 
-Play online at [http://www.intrepidcoder.com/projects/monopoly/](http://www.intrepidcoder.com/projects/monopoly/).
+> #### yes
+> #####  ah &emsp; [yiha][homepage] &emsp; [@blabla][twitter] ![twit][]
+> `bokep`
 
-Includes an experimental capability to play against an AI. A test AI for demonstration purposes is included.
+---
+> **"** mesum
+
+
+---
+## Experience
+#### raja mesum &emsp; <small>*1995 - current*</small>
+`peepeejs`
+> bermain with peepeejs
+
+---
+## Education
+#### mesumer graduate &emsp; <small>*1995 - 2020*</small>
+`peepeejs`
+> expert in peepeejs
+
+---
+
+[homepage]: http://yiha
+[twitter]: https://twitter.com/blabla
+[twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
